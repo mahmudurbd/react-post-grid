@@ -24,8 +24,7 @@ A responsive post grid layout built with **React** and **SCSS**, featuring **Loa
 
 ## 📂 Project Structure
 
-````bash
-
+```bash
 ├── public/
 │   ├── posts.json         # Dummy data for posts
 │   └── vite.svg
@@ -43,18 +42,16 @@ A responsive post grid layout built with **React** and **SCSS**, featuring **Loa
 │   └── main.jsx
 ├── package.json
 └── README.md
-
-
----
+```
 
 ## 📦 Installation
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/react-post-grid.git
+   ```bash
+   git clone https://github.com/your-username/react-post-grid.git
 
-````
+   ````
 
 2. Navigate into the project folder:
 
